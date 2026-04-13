@@ -2,15 +2,15 @@
 const webLinks = [
     // All social profile
     {
-        title: 'Twitter',
-        url: 'https://twitter.com/realvjy',
+        title: 'X',
+        url: 'https://x.com/floofixx',
         type: 'social',
         icon: '/twitter.svg',
         on: true
     },
     {
         title: 'Instagram',
-        url: 'https://instagram.com/realvjy',
+        url: 'https://instagram.com/itskampty',
         type: 'social',
         icon: '/insta.svg',
         on: true
