@@ -1,15 +1,15 @@
 // date: 1 Aug, 2022
 const bioData = [
     {
-        name: 'nxt lnk',
-        username: 'nxtlnk.vercel.app',
-        url: 'https://nxtlnk.vercel.app',
+        name: 'Kampty',
+        username: 'floofix.net',
+        url: 'https://floofix.net',
         titleImg: true,
         avatar: '/avatar.png',
         nftAvatar: true,
-        description: 'Custom bio links for creatives who love coding. Made this first to use for my own weblinks vjy.me/lnk. ',
+        description: 'Hey, I’m Kampty — a furry content creator and occasional software dev',
         descShow: true,
-        subdesc: 'Use this template and deploy on vercel for free',
+        subdesc: '17 • 🇺🇦 • Computers • Trains • Furuiter • #StandWithUkraine • #FreeSchlep • CS Enthusiast🔥 • 💜Single💜 (closed) • Finals this year',
         subdescShow: true,
         newProductUrl: 'https://3dicons.co',
         newProduct: true,
