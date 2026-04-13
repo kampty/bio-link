@@ -51,12 +51,12 @@ const Links = () => {
 
   // Get data for install section
   const install = allLinks.filter((el) => {
-    return el.type === "install" && el.on
+    return el.type === "important" && el.on
   });
 
   // Get data for nfts
   const nfts = allLinks.filter((el) => {
-    return el.type === "nft" && el.on
+    return el.type === "UwU" && el.on
   });
 
   // Get data for other section
