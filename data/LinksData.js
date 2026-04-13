@@ -16,52 +16,17 @@ const webLinks = [
         on: true
     },
     {
-        title: 'Dribbble',
-        url: 'https://dribbble.com/realvjy',
-        type: 'social',
-        icon: '/dribbble.svg',
-        on: false
-    },
-    {
-        title: 'Medium',
-        url: 'https://medium.com/@realvjy',
-        type: 'social',
-        icon: '/medium.svg',
-        on: false
-    },
-    {
         title: 'Github',
-        url: 'https://github.com/realvjy',
+        url: 'https://github.com/kampty',
         type: 'social',
         icon: '/github.svg',
         on: true
     },
     {
-        title: 'Youtube',
-        url: 'https://youtube.com/realvjy',
+        title: 'YouTube',
+        url: 'https://youtube.com/@itskampty',
         type: 'social',
         icon: '/youtube.svg',
-        on: false
-    },
-    {
-        title: 'Figma',
-        url: 'https://figma.com/@realvjy',
-        type: 'social',
-        icon: '/figma.svg',
-        on: true
-    },
-    {
-        title: 'Behance',
-        url: 'https://behance.net/realvjy',
-        type: 'social',
-        icon: '/behance.svg',
-        on: false
-    },
-    {
-        title: 'Linkedin',
-        url: 'https://www.linkedin.com/in/realvjy/',
-        type: 'social',
-        icon: '/linkedin.svg',
         on: false
     },
     {
@@ -69,42 +34,35 @@ const webLinks = [
         url: 'https://mastodon.online/@realvjy',
         type: 'social',
         icon: '/mastodon.svg',
+        on: false
+    },
+    {
+        title: 'Telegram',
+        url: 'https://t.me/kampty',
+        type: 'social',
+        icon: '/telegram.svg',
         on: true
     },
     {
-        title: 'Hive Social',
-        url: 'https://www.hivesocial.app/?@realvjy',
-        type: 'social',
-        icon: '/hive.svg',
-        on: false
-    },
-    {
-        title: 'Post',
-        url: 'https://www.post.news/realvjy',
-        type: 'social',
-        icon: '/post.svg',
-        on: false
-    },
-    {
-        title: 'foundation',
+        title: 'Website',
         url: 'https://vjy.me',
-        type: 'nft',
-        icon: '/foundation.svg',
-        on: false
+        type: 'important',
+        icon: '/web.svg',
+        on: true
     },
     {
-        title: 'opensea',
+        title: 'Fursona',
         url: 'https://vjy.me',
-        type: 'nft',
-        icon: '/opensea.svg',
-        on: false
+        type: 'important',
+        icon: '/paw.svg',
+        on: true
     },
     {
-        title: 'new collection',
-        url: 'https://vjy.me',
-        type: 'nft',
-        icon: '/opensea.svg',
-        on: false
+        title: 'Discord',
+        url: 'https://go.floofix.net/discord',
+        type: 'important',
+        icon: '/discord.svg',
+        on: true
     },
     // Install section
     {
@@ -112,28 +70,28 @@ const webLinks = [
         url: 'https://github.com/realvjy/nxt-lnk/generate',
         type: 'install',
         icon: '/use.png',
-        on: true
+        on: false
     },
     {
         title: 'Deploy on Vercel',
         url: 'https://vercel.com/import/git?s=https://github.com/realvjy/nxt-lnk',
         type: 'install',
         icon: '/vercel.svg',
-        on: true
+        on: false
     },
     {
         title: 'Documentation',
         url: 'https://github.com/realvjy/nxt-lnk#nxt-lnk',
         type: 'install',
         icon: '/doc.png',
-        on: true
+        on: false
     },
     {
         title: 'Github',
         url: 'https://github.com/realvjy/nxt-lnk',
         type: 'install',
         icon: '/github-fill.svg',
-        on: true
+        on: false
     },
 
     {
@@ -141,7 +99,7 @@ const webLinks = [
         url: 'https://www.buymeacoffee.com/realvjy',
         type: 'other',
         icon: '/bmc.png',
-        on: true
+        on: false
     },
 
     {
@@ -149,7 +107,7 @@ const webLinks = [
         url: 'https://vjy.me/lnk',
         type: 'other',
         icon: '/vjy.png',
-        on: true
+        on: false
     },
 
     {
@@ -157,7 +115,7 @@ const webLinks = [
         url: 'https://vjy.me',
         type: 'other',
         icon: '/vjy.png',
-        on: true
+        on: false
     },
 ];
 
