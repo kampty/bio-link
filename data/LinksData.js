@@ -45,22 +45,22 @@ const webLinks = [
     },
     {
         title: 'Website',
-        url: 'https://vjy.me',
-        type: 'other',
+        url: 'https://next.floofix.net',
+        type: 'important',
         icon: '/web.svg',
         on: true
     },
     {
         title: 'Fursona',
-        url: 'https://vjy.me',
-        type: 'other',
+        url: 'https://go.floofix.net/kampty',
+        type: 'important',
         icon: '/paw.svg',
         on: true
     },
     {
         title: 'Discord',
         url: 'https://go.floofix.net/discord',
-        type: 'other',
+        type: 'important',
         icon: '/discord.svg',
         on: true
     },
