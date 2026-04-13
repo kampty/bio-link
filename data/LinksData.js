@@ -46,21 +46,21 @@ const webLinks = [
     {
         title: 'Website',
         url: 'https://vjy.me',
-        type: 'important',
+        type: 'other',
         icon: '/web.svg',
         on: true
     },
     {
         title: 'Fursona',
         url: 'https://vjy.me',
-        type: 'important',
+        type: 'other',
         icon: '/paw.svg',
         on: true
     },
     {
         title: 'Discord',
         url: 'https://go.floofix.net/discord',
-        type: 'important',
+        type: 'other',
         icon: '/discord.svg',
         on: true
     },
