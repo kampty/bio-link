@@ -12,7 +12,7 @@ const bioData = [
         subdesc: '17 • 🇺🇦 • Computers • Trains • Furuiter • #StandWithUkraine • #FreeSchlep • CS Enthusiast🔥 • 💜Single💜 (closed) • Finals this year',
         subdescShow: true,
         newProductUrl: 'https://3dicons.co',
-        newProduct: true,
+        newProduct: false,
         author: 'realvjy',
         authorURL: 'https://twitter.com/realvjy',
         footerText: 'made by'
